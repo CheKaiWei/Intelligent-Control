@@ -1,2 +1,1 @@
-# Intelligent-Control
-Intelligent-Control
+# Richard's Page
